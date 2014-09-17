@@ -1,6 +1,6 @@
 # Ruby on Rails Tutorial: sample application
 
-## test
+## test2
 
 This is the sample application for
 [*Ruby on Rails Tutorial: Learn Web Development with Rails*](http://railstutorial.org/)
